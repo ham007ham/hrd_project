@@ -13,5 +13,6 @@ public class ArrayNew {
         print("length of a = " + a.length);
         print("a : " + a);   // [I@74a14482  为什么是这个值
         print(Arrays.toString(a));
+        print("10 45 changed");
     }
 }
